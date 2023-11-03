@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Resume Ranking System</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+  <h1>Resume Ranking System</h1>
+
+  <div class="container">
+    <label for="resumeFiles">Select Resume Files</label>
+    <input type="file" id="resumeFiles" multiple accept=".pdf" required>
+
+    <br> <br>
+    <label for="jobDescription">Select Job Description</label>
+    <input type="file" id="jobDescription" accept=".txt" required>
+    <br><br>
+    <button id="submitBtn">Get Ranking</button>
+  </div>
+  <div id="result">
+  </div>
+  <script src="{{ url_for('static', filename='scrp.js') }}"></script>
+
+</body>
+
+</html>
