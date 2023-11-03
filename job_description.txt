@@ -1,0 +1,29 @@
+Data Science Team - IndiaNIC
+
+Responsibilities:
+
+- Understand business problems of the clients to deliver well optimized data science based solutions.
+- Brainstorm and work on challenging Data Science problems in a fast pace, competitive and learning environment.
+- AI/ML model development, optimization and validation.
+- Propose and implement AI/ML based solutions and estimates for challenging data science use cases.
+- Explore new advances in the field of data science and stay updated with it.
+- Work with strong analytical and critical thinking skills to generate creative solutions to business problems.
+- Cross-training other team members for a thriving team.
+
+
+Technical Requirements:
+
+- Programming languages: Python or R.
+- Perform EDA, pre-processing, data visualization.
+- Good proficiency with Pandas, scikit-learn, tensorflow, keras and pytorch etc.
+- Knowledge of Machine Learning (supervised and unsupervised) and Deep Learning.
+- AI/ML Model development and deployment on cloud platforms (AWS, Azure, GCP).
+- Knowledge of NLP and computer vision.
+
+
+Good to have skills:
+
+- MySQL, PostgreSQL or NoSQL DBs
+- Django or Flask.
+- Matplotlib, Tableau, Power BI, Looker.
+- Strong communication skills.
